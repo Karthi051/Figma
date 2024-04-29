@@ -33,7 +33,8 @@ Publish the website in the given URL.
 Figma
 
 ## OUTPUT:
-![Uploading image.png…]()
+![image](https://github.com/Karthi051/Figma/assets/148327224/db9616aa-82b4-439d-90dc-809d43215333)
+
 
 
 
